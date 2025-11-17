@@ -67,6 +67,9 @@ A full-stack platform for alumni–student interaction, posts, events & opportun
 
 ## 🌐 Connect with Me
 <p>
+🌐 **Portfolio Website:**  
+👉 https://satyamunje.github.io
+
 <a href="https://www.linkedin.com/in/satyamunje/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:munjesatya2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
